@@ -1,3 +1,0 @@
-# go_http_test/custom_types v0.0.0 => ./custom_types
-## explicit; go 1.17
-# go_http_test/custom_types => ./custom_types
