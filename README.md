@@ -11,4 +11,4 @@ The [website](https://www.lavajavacafe.info/) features Discord oAuth2 usage for 
 
 The bot includes a multitude of commands with aliases, restricted to specific roles and users. ![Commands](https://i.imgur.com/7Qxrega.png)
 
-It also includes a large variety of features, such as message logging, reaction roles, and a simple but useful ticket system as requested.
+It also includes a large variety of features, such as message logging, reaction roles, and a simple but useful ticket system as requested. It also has a private API for tons of important stuff, i.e. displaying apps, sending apps, editing apps, ranking users, etc.
