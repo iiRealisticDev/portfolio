@@ -2,6 +2,7 @@
 Welcome to my portfolio! This is where I'll keep a bunch of my open-source projects for potential commissioners to view, as well as screenshots/GIFs of closed-source projects, or links to them where possible.
 
 ## Index
+This includes a list of closed-source projects and links to view them. Open-Source projects can be found above in folders.
 1. [Realistic Jr. - Discord Bot](https://github.com/iiRealisticDev/portfolio#realistic-jr---discord-bot)
 2. [Lava Java Cafe - Discord Bot and Wesbite](https://github.com/iiRealisticDev/portfolio#lava-java-cafe)
 3. [Pricing]()
