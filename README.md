@@ -1,8 +1,8 @@
 ## My Portfolio
-### Welcome to my portfolio! This is where I'll keep a bunch of my open-source projects for potential commissioners to view, as well as screenshots/GIFs of closed-source projects, or links to them where possible.
+Welcome to my portfolio! This is where I'll keep a bunch of my open-source projects for potential commissioners to view, as well as screenshots/GIFs of closed-source projects, or links to them where possible.
 
 ## Realistic Jr. - Discord Bot
-### Realistic Jr. is my verified Discord Bot, and is currently still a WIP as per the newest version. While the source is private for obvious reasons, you may visit the website [here](https://realistic-jr-bot.glitch.me/home) or invite the bot [here](https://top.gg/bot/569205386054467594). It is a multipurpose bot with numerous commands, currently all in slash commands.
+Realistic Jr. is my verified Discord Bot, and is currently still a WIP as per the newest version. While the source is private for obvious reasons, you may visit the website [here](https://realistic-jr-bot.glitch.me/home) or invite the bot [here](https://top.gg/bot/569205386054467594). It is a multipurpose bot with numerous commands, currently all in slash commands.
 ![Commands](https://i.imgur.com/dXKFFk8.png)
 ## Lava Java Cafe
 Lava Java Cafe was one of my first proper website commissions, accompanied with a feature-rich Discord bot.
