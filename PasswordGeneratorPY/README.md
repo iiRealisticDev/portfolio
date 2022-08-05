@@ -1,4 +1,4 @@
 # Password Generator
-A working password generator. Rather ugly GUI currently, it was mostly a test to get used to Tkinter and **is not** and **will not** be production-ready. 
+A working password generator. Rather ugly GUI but I don't plan on ever working with Python for GUI again, so
 
 ![PWGen](https://i.imgur.com/mLhWvKk.gif)
